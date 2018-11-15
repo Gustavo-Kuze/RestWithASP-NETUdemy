@@ -9,7 +9,7 @@ using RestWithASPNETUdemy.Services;
 
 namespace RestWithASPNETUdemy.Controllers
 {
-    [Produces("application/json")]
+    [Produces("application/json")] 
     [Route("api/Persons")]
     public class PersonsController : Controller
     {
