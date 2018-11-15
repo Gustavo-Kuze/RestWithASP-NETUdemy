@@ -1,1 +1,1 @@
-<a href="javascript:alert('Yay')">RestWithASP-NETUdemy</a>
+<a href="#">RestWithASP-NETUdemy</a>
