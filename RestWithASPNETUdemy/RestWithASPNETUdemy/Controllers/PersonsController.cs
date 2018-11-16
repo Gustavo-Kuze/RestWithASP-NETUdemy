@@ -25,7 +25,7 @@ namespace RestWithASPNETUdemy.Controllers
         public IActionResult Get()
         {
             return Ok(_personService.FindAll());
-        }
+        } 
 
         // GET: api/Persons/5
         [HttpGet("{id}", Name = "Get")]

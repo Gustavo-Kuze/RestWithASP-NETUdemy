@@ -20,3 +20,14 @@ C:\Users\Kuze\Documents\GitHub\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWith
 C:\Users\Kuze\Documents\GitHub\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
 C:\Users\Kuze\Documents\GitHub\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
 C:\Users\Kuze\Documents\GitHub\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csprojAssemblyReference.cache
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.deps.json
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.json
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.runtimeconfig.dev.json
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csprojAssemblyReference.cache
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.AssemblyInfo.cs
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.dll
+G:\Users\GS2N\Github Repos\ASP-NETUdemy\repo\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.0\RestWithASPNETUdemy.pdb
